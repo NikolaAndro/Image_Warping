@@ -12,6 +12,8 @@ top=right
 bottom-left
 bottom-right
 
+IMPORTANT NOTE: You MUST select top points of the object first. Pithagoras won't work otherwise.
+
 '''
 # circles to be posted
 circles = np.zeros((4,2),np.int)
